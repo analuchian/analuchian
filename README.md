@@ -5,7 +5,7 @@
   
   
 <div align="center">
-  <img src="https://i.pinimg.com/originals/c1/4c/32/c14c32abccf95180caf9282a32479054.jpg" width="1000" height="400"/>
+  <img src="https://i.pinimg.com/originals/c1/4c/32/c14c32abccf95180caf9282a32479054.jpg" width="900" height="400"/>
 </div> 
   
   
