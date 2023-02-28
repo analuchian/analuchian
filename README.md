@@ -4,7 +4,9 @@
   
   
   
-![](https://media.giphy.com/media/lnfzT3k8g7wpG/giphy.gif) 
+<div align="center">
+  <img src="file:///Users/analuchian/Desktop/hebstreits-89324.jpeg" width="900" height="300"/>
+</div> 
   
   
   
