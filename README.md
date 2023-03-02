@@ -2,7 +2,7 @@
   
 ### ✨&nbsp; My name is [Ana Luchian](https://www.linkedin.com/in/analuchian/) and I'm a Software QA Automation Engineer from Chicago, IL ✨&nbsp; 
 
-I'm a Quality Assurance Engineer, with 8+ years experience in Tech field, Quality Assurance, Manual and Automation Testing of Web, Client/Server, Cloud Based, Desktop and Mobile Applications. Solid knowledge of SDLC, software testing processes and automation techniques; Front-End, Back-End, regression and Performance testing. Experienced in Agile / SCRUM / Waterfall software testing methodologies. Team player, task oriented and success driven individual, who wants to succeed as a Team and build strong long-term relationships.
+I'm a Quality Assurance Engineer, with 8+ years experience in Tech field, Quality Assurance, Manual and Automation Testing of Web, Client/Server, Cloud Based, Desktop and Mobile Applications. Solid knowledge of SDLC, software testing processes and automation techniques; Front-End, Back-End, regression and Performance testing. Experienced in Agile / SCRUM / Waterfall software testing methodologies.
   
   
   
