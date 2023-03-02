@@ -12,7 +12,7 @@ Quality Assurance Engineer, with 8+ years experience in Tech field, Quality Assu
   
   
   
-### :hammer_and_wrench: Languages and Tools I use :
+### Languages and Tools I use :
 
   
 <div align="center">
