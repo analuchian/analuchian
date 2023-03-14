@@ -6,9 +6,7 @@ Quality Assurance Engineer, with 8+ years experience in Tech field, Quality Assu
 
 
 𝘗𝘙𝘖𝘜𝘋 𝘖𝘍 🇺🇸
-  
 𝘐𝘕 𝘓𝘖𝘝𝘌 𝘞𝘐𝘛𝘏 🇬🇷
-  
 𝘈𝘓𝘞𝘈𝘠𝘚 𝘔𝘐𝘚𝘚𝘐𝘕𝘎 🇲🇩
   
   
