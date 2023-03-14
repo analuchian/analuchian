@@ -4,10 +4,6 @@
 
 Quality Assurance Engineer, with 8+ years experience in Tech field, Quality Assurance, Manual and Automation Testing of Web, Client/Server, Cloud Based, Desktop and Mobile Applications. Solid knowledge of SDLC, software testing processes and automation techniques; Front-End, Back-End, regression and Performance testing. Experienced in Agile / SCRUM / Waterfall software testing methodologies.
 
-
-𝘗𝘙𝘖𝘜𝘋 𝘖𝘍 🇺🇸
-𝘐𝘕 𝘓𝘖𝘝𝘌 𝘞𝘐𝘛𝘏 🇬🇷
-𝘈𝘓𝘞𝘈𝘠𝘚 𝘔𝘐𝘚𝘚𝘐𝘕𝘎 🇲🇩
   
   
   
@@ -70,3 +66,7 @@ Quality Assurance Engineer, with 8+ years experience in Tech field, Quality Assu
 <div align="center">
   
 ![](https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif)
+  
+𝘗𝘙𝘖𝘜𝘋 𝘖𝘍 🇺🇸
+𝘐𝘕 𝘓𝘖𝘝𝘌 𝘞𝘐𝘛𝘏 🇬🇷
+𝘈𝘓𝘞𝘈𝘠𝘚 𝘔𝘐𝘚𝘚𝘐𝘕𝘎 🇲🇩
