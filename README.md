@@ -64,4 +64,4 @@ Quality Assurance Engineer, with 8+ years experience in Tech field, Quality Assu
 
 <div align="center">
   
-  https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif
+![](https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif)
